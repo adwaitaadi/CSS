@@ -295,7 +295,7 @@ p{
     padding:10px;
     height: fit-content;
     border-right: none;
-    border-radius: 10px;
+    border-radius: 20px;
     border-top-right-radius: 0px;
     border-bottom-right-radius: 0px;
 }
@@ -309,7 +309,7 @@ p{
     margin-top: -5.5px;
     height: 79%;
     padding-top: 10px;
-    border-radius: 10px;
+    border-radius: 20px;
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
 }
